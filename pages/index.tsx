@@ -64,7 +64,7 @@ const Home: NextPage = () => {
       <Head>
         <title>line viewer</title>
         <meta name='description' content='line viewer' />
-        <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+        <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
       </Head>
 
       <main>
